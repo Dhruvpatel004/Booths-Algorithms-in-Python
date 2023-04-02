@@ -1,3 +1,6 @@
-# Booths-Algorithms-in-Python
+# Booths-Algorithm-in-Python
 Booth-algorithm
-An implementation of Booth's multiplication algorithm (and some other algorithms) in Python.
+An implementation of Booth's multiplication algorithm in Python.
+
+#computer-organization-and-architecture
+#booths-alogorithm
